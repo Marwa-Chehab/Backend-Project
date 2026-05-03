@@ -43,24 +43,28 @@ It handles data persistence, authentication, and business logic, ensuring a scal
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/backend-project.git
-
+```
 ### 2. Navigate into the project
+```bash
 cd backend-project
-
+```
 ### 3. Install dependencies
+```bash
 npm install
-
+```
 ### 4. Configure environment variables
+```bash
 PORT=3000
 DATABASE_URL=your_database_url
 JWT_SECRET=your_secret_key
-
+```
 ### 5. Start the server
+```bash
 npm start
-
+```
 Server runs on:
 http://localhost:3000
-```
+
 ## API Endpoints examples
 
 ### Authentication
