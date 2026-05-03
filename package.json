@@ -1,0 +1,24 @@
+{
+  "name": "tp5backend_marwa_chehab_nour_elimane_alga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.ensimag.fr:grenoble-inp-ensimag/4PMIAWM_2425/TP5Backend/TP5Backend_marwa_chehab_nour_elimane_alga.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.14.1",
+    "serve": "^14.2.4",
+    "v16": "^0.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
